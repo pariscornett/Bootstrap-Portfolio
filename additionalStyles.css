@@ -1,0 +1,20 @@
+/*working code*/
+.navbar{
+    background-color:lavender !important;
+}
+
+.navbar .navbar-brand {
+    color:#af7ac5;
+}
+
+.navbar .navbar-brand:hover{
+    color:#45bc9d; 
+}
+
+.nav-link{
+    color:#af7ac5 !important;
+}
+/*still working on functionality here*/
+.nav-item .nav-link:hover{
+    color:#45bc9d;
+}
