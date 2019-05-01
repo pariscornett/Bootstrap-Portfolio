@@ -55,4 +55,14 @@ footer{
     text-align:center !important;
 }
 
+p{
+    font-family: 'Montserrat', sans-serif;
+    color:#9C92AD;
+    line-height: 30px;
+}
+
+.portfolioText{
+    color:white;
+}
+
 
