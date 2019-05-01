@@ -30,3 +30,16 @@ h1{
     width:200px;
 }
 
+.form-group{
+    font-family: 'Montserrat', sans-serif;
+    color:#af7ac5;
+}
+
+.btn-primary{
+    background-color:#af7ac5 !important;
+    border-color:#af7ac5 !important;
+}
+.btn-primary:hover{
+    background-color: #45bc9d !important;
+}
+
