@@ -1,4 +1,9 @@
 /*working code*/
+
+.container{
+    background-image: url();
+}
+
 .navbar{
     background-color:lavender !important;
 }
@@ -8,7 +13,7 @@
 }
 
 .navbar .navbar-brand:hover{
-    color:#45bc9d; 
+    color:#45bc9d !important; 
 }
 
 .nav-link{
@@ -42,4 +47,10 @@ h1{
 .btn-primary:hover{
     background-color: #45bc9d !important;
 }
+
+footer{
+    position:relative;
+    top: 185px;
+}
+
 
